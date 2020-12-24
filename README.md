@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hey 👋, I am hhlp!
 <img align="right" width="20%" src="https://avatars3.githubusercontent.com/u/2659606?v=4">
 

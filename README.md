@@ -46,7 +46,7 @@
         <a href="https://twitter.com/hhlp">
         <img align="left" alt="hhlp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
-        <a href="https://www.linkedin.com/in/adyasha-mohanty-7a6254191/">
+        <a href="https://www.linkedin.com/in/louzaoh">
         <img align="left" alt="hhlp's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
         </a>
         <a href="https://www.instagram.com/louzaoh/">

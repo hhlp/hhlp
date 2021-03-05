@@ -1,6 +1,10 @@
 # Hey 👋, I am hhlp!
 <img align="right" width="20%" src="https://avatars3.githubusercontent.com/u/2659606?v=4">
 
+<div align="center">
+<h3>💻 Software Engineer | 🌏 Asturias, Spain </h3> 
+</div>
+
 - ✈️ Hire me for remote work & internships
 - 🔭 I’m currently working on ...
 * 🌱 I’m currently learning all about Linux...
@@ -11,6 +15,8 @@
 * 📫 How to reach me: [Twitter](twitter.com/hhlp)
 * 😄 Pronouns: He/Him...
 * ⚡ Fun fact: I love go to the GYM...
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 ### Tech Stacks:
 

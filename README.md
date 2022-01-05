@@ -54,8 +54,7 @@
 ![Sass](https://img.shields.io/badge/Sass-cc6699.svg?style=flat-square&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764abc.svg?style=flat-square&logo=redux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-5c2d91.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![HackerOne](https://img.shields.io/badge/HackerOne-494649.svg?style=flat-square&logo=hackerone&logoColor=white)
-
+![R](https://img.shields.io/badge/R-276DC3??style=flat&logo=r&logoColor=white)
 
 ### Some facts:
 <table>

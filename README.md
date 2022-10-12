@@ -23,38 +23,54 @@
 ##### Front-End Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc.svg?style=flat-square&logo=typescript&logoColor=white)
 
+##### CSS Frameworks
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+##### CSS Pre-Procesor
+
+![Sass](https://img.shields.io/badge/Sass-cc6699.svg?style=flat-square&logo=sass&logoColor=white)
+
+##### Front-End Frameworks
+
+![Angular](https://img.shields.io/badge/Angular-dd0031.svg?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/Redux-764abc.svg?style=flat-square&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4fc08d.svg?style=flat-square&logo=vue.js&logoColor=white)
+
+##### Back-End Frameworks
+
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
 
 ##### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599c.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab.svg?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc.svg?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00add8.svg?style=flat-square&logo=go&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3??style=flat&logo=r&logoColor=white)
+
+##### CI/CD DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00add8.svg?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-00bdd8.svg?style=flat-square&logo=react&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-3eaaaf.svg?style=flat-square&logo=travis-ci&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4fc08d.svg?style=flat-square&logo=vue.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=vim&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4eaa25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-fa7343.svg?style=flat-square&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032.svg?style=flat-square&logo=git&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-dc382d.svg?style=flat-square&logo=redis&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-dd0031.svg?style=flat-square&logo=angular&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-cc6699.svg?style=flat-square&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764abc.svg?style=flat-square&logo=redux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-5c2d91.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3??style=flat&logo=r&logoColor=white)
+
+##### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d.svg?style=flat-square&logo=redis&logoColor=white)
 
 ### Some facts:
 <table>

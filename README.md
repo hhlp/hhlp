@@ -26,20 +26,20 @@ Hey 👋, I am hhlp!<br><br>💻 DevOps | Software Engineer | 🌏 Asturias, Spa
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Puppet](https://img.shields.io/badge/puppet-%232C5263.svg?style=for-the-badge&logo=puppet&logoColor=white)
-![Chef](https://img.shields.io/badge/chef-%232C5263.svg?style=for-the-badge&logo=chef&logoColor=white)
 
 ### Container
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/podman-%230db7ed.svg?style=for-the-badge&logo=podman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Skopeo](https://img.shields.io/badge/skopeo-%230db7ed.svg?style=for-the-badge&logo=skopeo&logoColor=white)
 ![Buildah](https://img.shields.io/badge/buildah-%230db7ed.svg?style=for-the-badge&logo=buildah&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Automatation
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/puppet-%232C5263.svg?style=for-the-badge&logo=puppet&logoColor=white)
+![Chef](https://img.shields.io/badge/chef-%232C5263.svg?style=for-the-badge&logo=chef&logoColor=white)
 
 #### Package Manager
 

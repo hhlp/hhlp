@@ -8,11 +8,6 @@ Hey 👋, I am hhlp!<br><br>💻 DevOps | Software Engineer | 🌏 Asturias, Spa
     <a href="#"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hhlp&theme=vue-dark" /></a>
 </p>
 
-## Accolades
-<p align="center">
-    <a href="#"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=hhlp&theme=nord"></a>
-</p>
-
 ## 🌐 Reach Out:
 
 - <a href="#"><img alt="hhlp on GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" /></a>&nbsp;<a href="http://github.com/">hhlp</a>

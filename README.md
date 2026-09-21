@@ -343,43 +343,61 @@ Learning paths are built around:
 
 ---
 
-# 🎯 Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
-``` text
-🐧 Linux / Fedora / RHEL
-⚙️ System Administration
-🔐 Security & Secure Boot
-📦 RPM Packaging
-🤖 Automation
-🏗️  Infrastructure as Code
-📦 Containers
-☸️  Kubernetes & Cloud Native
-🔭 Observability
-🗄️  Databases
-💻 Software Engineering
+<p align="center">
+🐧 Linux / Fedora / RHEL<br>
+⚙️ System Administration<br>
+🔐 Security & Secure Boot<br>
+📦 RPM Packaging<br>
+🤖 Automation<br>
+🏗️ Infrastructure as Code<br>
+📦 Containers<br>
+☸️ Kubernetes & Cloud Native<br>
+🔭 Observability<br>
+🗄️ Databases<br>
+💻 Software Engineering<br>
 📚 Technical Learning Paths
-```
+</p>
 
 ---
 
-# 🧰 Development Environment
+<h2 align="center">🧰 Development Environment</h2>
 
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square\&logo=fedora\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square\&logo=zsh\&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+<table align="center">
+  <tr>
+    <td><b>OS</b></td>
+    <td>Fedora Linux</td>
+  </tr>
+  <tr>
+    <td><b>Shell</b></td>
+    <td>Zsh</td>
+  </tr>
+  <tr>
+    <td><b>VCS</b></td>
+    <td>Git</td>
+  </tr>
+  <tr>
+    <td><b>Hosting</b></td>
+    <td>GitHub</td>
+  </tr>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>GitHub Actions</td>
+  </tr>
+  <tr>
+    <td><b>Packaging</b></td>
+    <td>RPM / COPR</td>
+  </tr>
+</table>
 
 <p align="center">
-
-```text
-OS          Fedora Linux
-Shell       Zsh
-VCS         Git
-Hosting     GitHub
-Automation  GitHub Actions
-Packaging   RPM / COPR
-```
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" alt="Zsh">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+</p>
 
 ---
 

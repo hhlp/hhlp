@@ -175,32 +175,32 @@ Learning and certification path:
 
 ---
 
-# 📚 Learning Philosophy
+<h2 align="center">📚 Learning Philosophy</h2>
 
-``` text
-🎯 OBJECTIVE
-     │
-     ▼
-📚 THEORY & REFERENCES
-     │
-     ▼
-💡 CORE CONCEPTS
-     │
-     ▼
-🧪 HANDS-ON LABS
-     │
-     ▼
-⚠️ COMMON MISTAKES
-     │
-     ▼
-🔬 INTERNALS
-     │
-     ▼
-🧠 KEY TAKEAWAYS
-     │
-     ▼
+<p align="center">
+🎯 OBJECTIVE<br>
+     │<br>
+     ▼<br>
+📚 THEORY & REFERENCES<br>
+     │<br>
+     ▼<br>
+💡 CORE CONCEPTS<br>
+     │<br>
+     ▼<br>
+🧪 HANDS-ON LABS<br>
+     │<br>
+     ▼<br>
+⚠️ COMMON MISTAKES<br>
+     │<br>
+     ▼<br>
+🔬 INTERNALS<br>
+     │<br>
+     ▼<br>
+🧠 KEY TAKEAWAYS<br>
+     │<br>
+     ▼<br>
 🚀 REAL-WORLD MASTERY
-```
+</p>
 
 The goal is not simply to learn commands or APIs, but to understand
 **how things work, why they work and how to troubleshoot them**.
@@ -234,34 +234,36 @@ Infrastructure-as-Code environments focused on Linux administration and database
 
 ---
 
-### 📚 Course Generator
+<h2 align="center">📚 Course Generator</h2>
 
 A structured system for generating deep technical courses and learning paths.
 
-```text
-0 → Fundamentals
-        ↓
-Beginner
-        ↓
-Intermediate
-        ↓
-Advanced
-        ↓
-Internals
-        ↓
-Real-world Labs
-        ↓
-Expert
-```
+<p align="center">
+0 → Fundamentals<br>
+        ↓<br>
+Beginner<br>
+        ↓<br>
+Intermediate<br>
+        ↓<br>
+Advanced<br>
+        ↓<br>
+Internals<br>
+        ↓<br>
+Real-world Labs<br>
+        ↓<br>
+Expert<br>
+</p>
 
 Learning paths are built around:
 
-📚 Bibliography
-🎯 Learning objectives
-🧪 Hands-on laboratories
-⚠️ Common mistakes
-💡 Important concepts
-🧠 Key takeaways
+<p align="center">
+📚 Bibliography<br>
+🎯 Learning objectives<br>
+🧪 Hands-on laboratories<br>
+⚠️ Common mistakes<br>
+💡 Important concepts<br>
+🧠 Key takeaways<br>
+</p>
 
 ---
 
